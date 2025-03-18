@@ -5,7 +5,7 @@ A weather app provides real-time weather updates, forecasts, and alerts, helping
 ## 🎨 Demo Preview (HTML & CSS)
 Here is a simple **HTML & CSS** snippet from the project:
 
-```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
