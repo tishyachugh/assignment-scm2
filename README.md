@@ -3,7 +3,7 @@
 ## 📌 Description
 A weather app provides real-time weather updates, forecasts, and alerts, helping users plan their day with accurate information on temperature, humidity, wind speed, and precipitation. It offers easy-to-read visuals and notifications for current and future conditions, ensuring users stay informed and prepared.
 ## 🎨 Demo Preview (HTML & CSS)
-Here is a simple **HTML & CSS** snippet from the project:
+Here is a simple *HTML & CSS* snippet from the project:
 
 '''html
 <!DOCTYPE html>
@@ -36,12 +36,11 @@ Here is a simple **HTML & CSS** snippet from the project:
     </style>
 </head>
 <body>
-    <h1>Welcome to My Project 🚀</h1>
-    <button class="btn">Click Me!</button>
+    <h1>Welcome to My Project Weather App 🚀</h1>
+    <button class="btn">Click Me!!!</button>
     <div class="collaborators">
         <p>👥 <span>Collaborators:</span> Ritika, Riva, Tishya, Yakshi</p>
     </div>
 </div>
 </body>
 </html>
-
